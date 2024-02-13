@@ -1,0 +1,7 @@
+﻿  ex03.cpp
+C:\Users\USER\Desktop\CPP\StudyCPP\t16\ex03.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04.cpp
+C:\Users\USER\Desktop\CPP\StudyCPP\t16\ex04.cpp(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+ex04.obj : error LNK2005: main이(가) ex03.obj에 이미 정의되어 있습니다.
+C:\Users\USER\Desktop\CPP\StudyCPP\t16\x64\Debug\t16.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
